@@ -1,5 +1,4 @@
 # Pizza Panic
-**Autor:** Jan Linhart
 
 ![PizzaPanic](/assets/PizzaPanic.png)
 ---
