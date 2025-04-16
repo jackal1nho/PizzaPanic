@@ -1,6 +1,6 @@
 # 🍕 Pizza Panic
-![PizzaPanic](/assets/PizzaPanic.png)
 **Autor:** Jan Linhart  
+![PizzaPanic](/assets/PizzaPanic.png)
 ---
 
 ## Obsah
@@ -38,7 +38,7 @@ Za včasné vyřízení objednávek hráč získává body/mince, které může 
 
 ### 👨‍🍳 Kuchtík  
 - Zručný, rychlý a dobrý kuchař připravující skvělé pizzy  
-
+![Kuchtík](/assets/Kuchtik.png)
 ---
 
 ## 4. Herní mechaniky a struktura
@@ -84,7 +84,7 @@ Za včasné vyřízení objednávek hráč získává body/mince, které může 
   - Kuchyňské stanice  
   - Pec  
   - Pult pro servírování  
-
+![Kuchyně](/assets/Kuchyne.png)
 ### Budoucí úrovně:
 - Více typů surovin  
 - Rychlejší tempo objednávek  
@@ -102,6 +102,6 @@ Za včasné vyřízení objednávek hráč získává body/mince, které může 
 - Úvodní menu  
 - Pauza  
 - Obchod s vylepšeními  
-
+![Logo](/assets/Logo.png)
 ---
 
