@@ -1,4 +1,4 @@
-# 🍕 Pizza Panic
+# Pizza Panic
 **Autor:** Jan Linhart
 
 ![PizzaPanic](/assets/PizzaPanic.png)
@@ -36,7 +36,7 @@ Za včasné vyřízení objednávek hráč získává body/mince, které může 
 
 ## 3. Charaktery
 
-### 👨‍🍳 Kuchtík  
+### Kuchtík  
 - Zručný, rychlý a dobrý kuchař připravující skvělé pizzy
 
 ![Kuchtík](/assets/Kuchtik.png)
