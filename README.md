@@ -69,8 +69,8 @@ Za včasné vyřízení objednávek hráč získává body/mince, které může 
 
 ## 5. Grafika a zvuky
 
-- **Grafika:** “3D” nebo top-down pohled
-- **Styl:** Barevný a jednoduchý kuchyňský vzhled
+- **Grafika:** “3D” / top-down pohled
+- **Styl:** Barevný a jednoduchý vzhled
 - **Zvuky:**
   - Hudba na pozadí
   - Zvuky vaření a interakcí
