@@ -1,7 +1,7 @@
 # 🍕 Pizza Panic
 **Autor:** Jan Linhart
+
 ![PizzaPanic](/assets/PizzaPanic.png)
-Image credit: ChatGPT
 ---
 
 ## Obsah
