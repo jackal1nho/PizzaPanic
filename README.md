@@ -85,6 +85,8 @@ Za včasné vyřízení objednávek hráč získává body/mince, které může 
   - Pec  
   - Pult pro servírování  
 ![Kuchyně](/assets/Kuchyne.png)
+xddddd
+
 ### Budoucí úrovně:
 - Více typů surovin  
 - Rychlejší tempo objednávek  
