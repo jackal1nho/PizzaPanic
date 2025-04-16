@@ -1,4 +1,4 @@
-# Pizza Panic
+# Pizza Panic (subject to change)
 
 ![PizzaPanic](/assets/PizzaPanic.png)
 ---
