@@ -1,5 +1,5 @@
 # 🍕 Pizza Panic
-
+![PizzaPanic](/assets/PizzaPanic.png)
 **Autor:** Jan Linhart  
 ---
 
